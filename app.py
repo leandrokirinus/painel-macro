@@ -5,7 +5,7 @@ from streamlit_autorefresh import st_autorefresh
 
 # CONFIGURAÇÕES DE SEGURANÇA
 SENHA_CORRETA = "WIN2026"
-DATA_EXPIRACAO = "2026-05-31"
+DATA_EXPIRACAO = "2026-12-31"
 
 st.set_page_config(page_title="Painel Macro WIN", layout="centered", initial_sidebar_state="collapsed")
 
